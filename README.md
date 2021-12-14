@@ -1,7 +1,11 @@
 # Indicaciones para correr el backend
 
 El primer paso es crear una base de datos llamada 
-### `bddata`
+### `bddata` 
+
+En caso de especificar un usuario y password se puede hacer en el archivo de 
+
+### `.env`
 
 tomar el script de las tablas de labase de datos MYSQL y correrlo 
 para poder usar el backend y los endpoints
