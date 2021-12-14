@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 14-12-2021 a las 21:23:17
+-- Tiempo de generación: 14-12-2021 a las 21:36:12
 -- Versión del servidor: 10.4.11-MariaDB
 -- Versión de PHP: 7.4.23
 
@@ -97,9 +97,9 @@ CREATE TABLE `studies` (
 --
 
 INSERT INTO `studies` (`id`, `secuenceId`, `studyName`, `createdAt`, `updatedAt`) VALUES
-(1, 1, 'Anel', '2021-12-13 21:20:02', '2021-12-13 21:20:02'),
-(2, 2, 'Gabriel', '2021-12-13 21:20:02', '2021-12-13 21:20:02'),
-(3, 1, 'Jose', '2021-12-13 21:20:04', '2021-12-13 21:20:04');
+(1, 1, 'Studie 1', '2021-12-13 21:20:02', '2021-12-13 21:20:02'),
+(2, 2, 'Studie 2', '2021-12-13 21:20:02', '2021-12-13 21:20:02'),
+(3, 1, 'Studie 3', '2021-12-13 21:20:04', '2021-12-13 21:20:04');
 
 --
 -- Índices para tablas volcadas
