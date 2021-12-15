@@ -17,7 +17,7 @@ y correr el comando:
 
 Este comando reconstruye los modulos de node para que la app pueda trabajar correctamente luego de que termine este proceso es solo correr el comando:
 
-### `npm run dev`
+### `npm start`
 
 Para iniciar el backend en modo desarrollo
 
